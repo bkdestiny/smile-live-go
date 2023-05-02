@@ -1,5 +1,7 @@
 # smile-live-go
 
+直播端
+
 ## Project setup
 ```
 npm install

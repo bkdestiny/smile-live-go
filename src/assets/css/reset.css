@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	vertical-align: middle;
+}
+body{
+	font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+	font-size: 14px;
+}
+.alter-button{
+	background: #409EFF;
+	color:white
+}
+.delete-button{
+	background: #F56C6C;
+	color:white;
+}
+.text-hover-blue:hover{
+	color:#409EFF;
+}
